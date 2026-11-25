@@ -1,6 +1,6 @@
 # TODO set config values
 
-num_pages = 592
+num_pages = 128
 
 color_pages = []
 
@@ -14,13 +14,13 @@ max_scan_width_mm = 215.88
 max_scan_height_mm = 355.567
 
 # physical page size (before unbinding)
-page_width_mm = 124
-page_height_mm = 190
-pages_block_depth_mm = 0
+page_width_mm = 134
+page_height_mm = 199.5
+pages_block_depth_mm = 8.85
 
 # physical page width after unbinding
 # unbinding removes a small strip (about 5 mm width) from the inside edge
-unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
+unbinded_page_width_mm = 131
 
 # TODO use 4 unbinded widths:
 # 1. top width of the first page
@@ -28,10 +28,10 @@ unbinded_page_width_mm = page_width_mm - 5 # 5 mm width was removed
 # 3. bottom width of the first page
 # 4. bottom width of the last page
 # for simplicity, we can assume linear gradients between these widths
-unbinded_page_width_front_top_mm = unbinded_page_width_mm + 0
-unbinded_page_width_front_bottom_mm = unbinded_page_width_mm + 0
-unbinded_page_width_back_top_mm = unbinded_page_width_mm + 0
-unbinded_page_width_back_bottom_mm = unbinded_page_width_mm + 0
+unbinded_page_width_front_top_mm = 130.5
+unbinded_page_width_front_bottom_mm = 131
+unbinded_page_width_back_top_mm = 130.5
+unbinded_page_width_back_bottom_mm = 131
 
 # physical size of the text block
 # this is useful to restore the physical aspect ratio in 0662-restore-page-size.py
