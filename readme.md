@@ -51,10 +51,10 @@ Und wir sind dabei, in eine ungeheure Falle zu tappen."
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### wolfgang.eggert.out.of.the.blue.2001.jpeg.600dpi.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:da2ddb0c3ea43d896893636d1f2aca05ddf47f8f&dn=wolfgang.eggert.out.of.the.blue.2001.jpeg.600dpi.german.book.scan&xl=367898282&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
