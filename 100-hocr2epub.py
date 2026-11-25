@@ -103,7 +103,7 @@ erklärte am 19. September in einem Interview mit der Tageszeitung *Die Welt*
 Bin Laden sei bestenfalls ein Bestandteil des Terror-Kommandos,
 aber kein wesentlicher:
 "Bin Laden ist ein Topterrorist, der eine Reihe von Verbrechen begangen hat.
-Das steht auBer Zweifel.
+Das steht außer Zweifel.
 Allerdings wird Bin Laden seit Jahren von westlichen Geheimdiensten gejagt...
 Um aber die jüngste Anschlagsserie vorzubereiten und die Logistik aufzubauen,
 benötigt man eine jahrelange Vorbereitung.
